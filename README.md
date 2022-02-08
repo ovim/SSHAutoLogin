@@ -38,4 +38,4 @@ curl -s https://www.ovim.cloud/SSHAutoLogin/install.sh | bash -s mac
 ```
 
 
-(基于 `jiangxianli/SSHAutoLogin` 的仓库进行修改)[https://github.com/jiangxianli/SSHAutoLogin]
+[基于 `jiangxianli/SSHAutoLogin` 的仓库进行修改](https://github.com/jiangxianli/SSHAutoLogin)
