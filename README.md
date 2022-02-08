@@ -36,3 +36,6 @@ curl -s https://www.ovim.cloud/SSHAutoLogin/install.sh | bash -s mac
 如密码为'-OU[]98' 在CONFIG配置中写成'-OU\[]98'
 否则，提示要手动输入密码
 ```
+
+
+(基于 `jiangxianli/SSHAutoLogin` 的仓库进行修改)[https://github.com/jiangxianli/SSHAutoLogin]
